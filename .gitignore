@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+venv/
+django_env/
+
+# Ignore database
+*.sqlite3
+
+# Ignore environment variables
+.env
